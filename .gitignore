@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pkl
+*.db
+node_modules/
+frontend/dist/
+.venv/
+*.pyc
+data/raw/
+data/processed/
